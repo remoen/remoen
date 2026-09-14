@@ -1,5 +1,7 @@
 # Lee Dongho
 
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/75f72951-1eae-449a-9069-b1b942b8820c" />
+
 Undergraduate at **Gachon University**, Department of Artificial Intelligence (2026 –).  
 Interested in **machine learning, robotics, and reinforcement learning**
 
